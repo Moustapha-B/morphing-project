@@ -1,0 +1,16 @@
+﻿# Compiled objects
+*.o
+
+# Binary
+morphing
+
+# Generated frames
+frames/*.ppm
+
+# Videos
+*.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
+*Zone.Identifier
